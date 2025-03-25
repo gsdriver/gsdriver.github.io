@@ -1,8 +1,20 @@
 # Home Page
 This is the list of stories on this blog
 
-[Why Your Startup Should Invest in a Strong Technical Foundation](./Why%20Your%20Startup%20should%20Invest%20in%20a%20Strong%20Technical%20Foundation)
+[How Being a Startup Cofounder helpd my Big Tech Transition](./how-being-a-startup-cofounder-helped-my-big-tech-transition)
+
+Leadership lessons learned on my journey from a startup to a large tech organization
+
+**May 1, 2023**
+
+[Why Your Startup Should Invest in a Strong Technical Foundation](./why-your-startup-should-invest-in-a-strong-technical-foundation)
 
 Make your pivots easier by taking some design time upfront
 
 **Feb 15, 2022**
+
+[Lessons Learned from my Transition to Startup CTO](./lessons-learned-from-my-transition-to-startup-cto)
+
+My story of venturing out from a Corporate VP role
+
+**Jan 23, 2020**
