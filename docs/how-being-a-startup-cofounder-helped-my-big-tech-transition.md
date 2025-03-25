@@ -49,3 +49,11 @@ Most mature companies don’t have this level of existential concern. To achieve
 #### Conclusion
 
 I’m lucky that I’ve had a variety of different experiences in my career. Large company vs startup is one dimension, but if you have the opportunity I recommend giving both a try. You’ll find a lot of differences. But a lot of skills transfer and will give you a unique perspective in your team. After all, diversity of thought is a bedrock of a well performing team.
+
+<script src="https://utteranc.es/client.js"
+        repo="gsdriver/gsdriver.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
