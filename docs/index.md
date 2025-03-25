@@ -1,5 +1,8 @@
-# Home Page
-This is the list of stories on this blog
+# Garrett's Blog
+
+### Fractional CTO | Engineering Leadership | Technology Product & Vision | Full Stack Development | Franchise Owner | Team Building & Development
+
+I'm currently in the process of re-creating my blog site, and copying over some of my best content from the past few years.
 
 [How Being a Startup Cofounder helpd my Big Tech Transition](./how-being-a-startup-cofounder-helped-my-big-tech-transition)
 
