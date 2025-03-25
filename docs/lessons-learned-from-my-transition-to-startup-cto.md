@@ -98,3 +98,18 @@ You may never be 100% sure that this is the right move for you. But if you find 
 My LegUp journey is still unfolding. I don’t know if we’ll make it or how things will work moving forward. But I am enjoying the ride with my co-founder and others involved. Onwards and upwards!‍
 
 ![LegUp Logo](./images/startup-journey-logo.png "LegUp Logo")
+
+***
+
+#### Leave a comment
+
+###### Comments are powered by Utterances. A free GitHub account is required. Please be respectful. No swearing or inflammatory language. No spam.
+###### **I reserve the right to delete any inappropriate comments.**
+
+<script src="https://utteranc.es/client.js"
+        repo="gsdriver/gsdriver.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

@@ -31,3 +31,18 @@ I’ve advised several other startups, many of whom for lack of in-house experti
 I’ve seen many startups instead provide some wire frames to an outsourced company. They may get something that looks like what they’ve asked for, but doesn’t quite fit their domain. Once they have a working codebase and paying customers, they feel the need to maintain that code base. It makes sense, you don’t want to leave your customers high and dry. But as I’ve learned with LegUp, the stronger your foundation, the easier it is to pivot and even completely change front-end product offerings. Unfortunately, many companies find themselves stuck needing to support something much more brittle.
 
 Do yourself a favor, take the time to lay the right foundation. Whether you do this with in-house technical expertise, leveraging a technical advisor, or in-depth Q&A session with your vendors, you’ll be glad you did when the need to pivot comes.
+
+***
+
+#### Leave a comment
+
+###### Comments are powered by Utterances. A free GitHub account is required. Please be respectful. No swearing or inflammatory language. No spam.
+###### **I reserve the right to delete any inappropriate comments.**
+
+<script src="https://utteranc.es/client.js"
+        repo="gsdriver/gsdriver.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
