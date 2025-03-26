@@ -2,6 +2,8 @@
 
 ### Leadership lessons learned on my journey from a startup to a large tech organization
 
+###### *May 1, 2023*
+
 ![Photo by Austin Distel on Unsplash](./images/big-tech-hero.png "Photo by Austin Distel on Unsplash")
 
 I recently joined Microsoft leading engineering efforts for the [Virtual Events](https://www.microsoft.com/en-us/microsoft-teams/virtual-events) space. Before that, I cofounded LegUp, a startup in the early childcare space which we sold early last year. And before that, I was part of Expedia, serving as the CTO of the CarRentals.com brand. This trajectory took me from corporate engineering executive to startup founder and back.

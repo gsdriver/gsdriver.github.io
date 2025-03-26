@@ -2,6 +2,8 @@
 
 ### How our startup designed an event-driven architecture to automate e-mails in a cost effective way
 
+###### *June 9, 2020*
+
 As part of our product, [LegUp](https://www.legup.care) communicates with families and day care providers. Automating this workflow is an important part of our ability to scale. As a scrappy startup, we wanted a solution that allows us to build something scalable at an affordable price. We decided to use AWS’s Simple Email Service (SES) to help manage our e-mails. To provide scalability and avoid throttling when sending bulk e-mails, we built an event-driven system. This system integrates with Simple Queue Service (SQS) and Simple Notification Service (SNS). It is managed through a Lambda function.
 
 > If you’ve tried using SQS or other event-bases systems, you’ve likely encountered the problem of idempotency. The same message can be delivered multiple times.

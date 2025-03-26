@@ -2,6 +2,8 @@
 
 ### My story of venturing out from a Corporate VP role
 
+###### *January 23, 2020*
+
 ![LegUp Cofounders](./images/startup-journey-hero.png "LegUp Cofounders")
 
 I joined LegUp as a cofounder and CTO and recently left my role as a VP of Technology at Expedia to focus full-time on my startup. LegUp is using technology to help working parents and their families find trusted childcare. It’s early days and an exciting road ahead of us, but I wanted to take some time to reflect on my journey and hopefully give some insights to others considering similar moves.While we’ve only just started LegUp, I’ve been exploring joining an early stage startup for the past year and a half.

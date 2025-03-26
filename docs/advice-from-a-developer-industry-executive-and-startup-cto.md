@@ -2,6 +2,8 @@
 
 ### Summary from an Ask Me Anything session from a section leader in Stanford’s Code In Place program
 
+###### *July 16, 2020*
+
 ![Advice from an industry veteran](./images/advice-hero.png "Advice from an industry veteran")
 
 I recently had the pleasure to serve as a section leader for Stanford’s innovative [Code In Place](https://engineering.stanford.edu/news/free-coding-education-time-covid-19) program. This global program was taught by Stanford instructors for people with no prior coding experience. Students covered the first half of Stanford’s introductory computer programming class going from scratch to writing Python projects to read and process data files and images. More than 80,000 people started an application for the course. Acceptance was only limited by the number of section leaders who each led weekly live sections in groups of 10 people.

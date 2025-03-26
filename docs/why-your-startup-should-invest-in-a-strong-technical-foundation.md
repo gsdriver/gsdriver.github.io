@@ -2,6 +2,8 @@
 
 ### Make your pivots easier by taking some design time upfront 
 
+###### *February 15, 2022*
+
 ![The Child Care Concierge](./images/foundation-hero.png "The Child Care Concierge")
 
 At [LegUp](https://www.legup.care), we recently launched The Child Care Concierge. It matches families to full-time and part-time child care by guiding them through the entire enrollment process. I helped co-found LegUp in 2019 with the vision to help families find and enroll in quality care for their children from pre-birth to pre-teen years. This release represents a significant milestone along that journey. But as with any startup, and especially those forming in the past few years, we pivoted a fair amount along the way. Our ability to shift our product through these pivots shows the importance of a well-architected design.

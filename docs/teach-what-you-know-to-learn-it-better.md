@@ -2,6 +2,8 @@
 
 ### What I learned by leading an Alexa-development workshop
 
+###### *December 4, 2019*
+
 ![Alexa Development 101, photo courtesy of Mindspand](./images/teach-hero.png "Alexa Development 101, photo courtesy of Mindspand")
 
 I’ve been building Alexa skills for the past few years, with over a dozen published skills in the Amazon Alexa store.
