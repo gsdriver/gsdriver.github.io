@@ -1,0 +1,11 @@
+# Site settings
+title: Garrett's Blog
+author:
+  name: Garrett Vargas
+description: "Writing about the intersect of technology leadership and business acumen"
+
+# Build settings
+remote_theme: pages-themes/cayman
+
+# Google Analytics
+google_analytics: G-TF81W7GBW7

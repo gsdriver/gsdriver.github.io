@@ -1,13 +1,3 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-TF81W7GBW7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-TF81W7GBW7');
-</script>
-
 # Garrett's Blog
 
 ### Fractional CTO | Engineering Leadership | Technology Product & Vision | Full Stack Development | Franchise Owner | Team Building & Development
