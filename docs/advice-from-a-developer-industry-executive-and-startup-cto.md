@@ -4,7 +4,9 @@
 
 ###### *July 16, 2020*
 
-![Advice from an industry veteran](./images/advice-hero.png "Advice from an industry veteran")
+<p align="center">
+  <img height="400" alt="Advice from an industry veteran" src="./images/advice-hero.png">
+</p>
 
 I recently had the pleasure to serve as a section leader for Stanford’s innovative [Code In Place](https://engineering.stanford.edu/news/free-coding-education-time-covid-19) program. This global program was taught by Stanford instructors for people with no prior coding experience. Students covered the first half of Stanford’s introductory computer programming class going from scratch to writing Python projects to read and process data files and images. More than 80,000 people started an application for the course. Acceptance was only limited by the number of section leaders who each led weekly live sections in groups of 10 people.
 
@@ -32,7 +34,9 @@ There are a lot of technologies, programming languages, and concepts to learn fo
 
 Code In Place gave people an understanding of Python. But it’s worth looking at other languages to get a sense of what’s most to your liking. Once you find a language you like, go deep with it to speed up your learning of programming concepts. Most languages have similar concepts so once you have a foundation in one it’s usually not too hard to pick up another.
 
-![Honing Leadership Skills](./images/advice-leadership.png "Honing Leadership Skills")
+<p align="center">
+  <img height="300" alt="Honing Leadership Skills" src="./images/advice-leadership.png">
+</p>
 
 ### Could you speak about your experience developing and honing your leadership skills? What are the most important skills needed to lead a team of engineers and make major technology decisions for the whole organization?
 
