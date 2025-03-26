@@ -4,7 +4,9 @@
 
 ###### *December 4, 2019*
 
-![Alexa Development 101, photo courtesy of Mindspand](./images/teach-hero.png "Alexa Development 101, photo courtesy of Mindspand")
+<p align="center">
+  <img height="400" alt="Alexa Development 101, photo courtesy of Mindspand" src="./images/teach-hero.png">
+</p>
 
 I’ve been building Alexa skills for the past few years, with over a dozen published skills in the Amazon Alexa store.
 
@@ -18,7 +20,9 @@ It was a lot of fun putting on this course. The class had a small-group setting 
 
 One thing that surprised me was how much people helped each other during the session. There was a variety of skill levels in the audience. I had tailored the lessons for beginners but included some exercises to challenge more veteran developers. The small, let’s-focus-on-learning environment helped bring about that collaborative learning.
 
-![Always Learning](./images/teach-group.png "Always Learning")
+<p align="center">
+  <img height="300" alt="Always Learning" src="./images/teach-group.png">
+</p>
 
 Whatever your passion, teaching others can be not only be satisfying but be a way to learn more yourself. I got several questions about features or nuances that I’d long since worked around. But when asked from a fresh perspective, it forced me to investigate to explain why something was the way it was. In at least one case, I found a new solution as a result.
 

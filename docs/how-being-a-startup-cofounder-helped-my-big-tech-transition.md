@@ -4,7 +4,9 @@
 
 ###### *May 1, 2023*
 
-![Photo by Austin Distel on Unsplash](./images/big-tech-hero.png "Photo by Austin Distel on Unsplash")
+<p align="center">
+  <img height="400" alt="Photo by Austin Distel on Unsplash" src="./images/big-tech-hero.png">
+</p>
 
 I recently joined Microsoft leading engineering efforts for the [Virtual Events](https://www.microsoft.com/en-us/microsoft-teams/virtual-events) space. Before that, I cofounded LegUp, a startup in the early childcare space which we sold early last year. And before that, I was part of Expedia, serving as the CTO of the CarRentals.com brand. This trajectory took me from corporate engineering executive to startup founder and back.
 
@@ -38,7 +40,9 @@ You might think that a big company doesn’t have these problems and compared to
 
 At Microsoft, this has meant clearly laying out our responsibilities and priorities. It means re-assessing what done looks like to focus on top customer needs. I’ve shifted my team’s responsibilities to leverage common work items and individual strengths. It takes resolve to execute without defaulting to putting together a case for more headcount. In today’s environment though leaders with this scrappy mindset will go farther.
 
-![Photo by GR Stocks on Unsplash](./images/big-tech-chess.png "Photo by GR Stocks on Unsplash")
+<p align="center">
+  <img height="300" alt="Photo by GR Stocks on Unsplash" src="./images/big-tech-chess.png">
+</p>
 
 #### Strategic Thinking
 

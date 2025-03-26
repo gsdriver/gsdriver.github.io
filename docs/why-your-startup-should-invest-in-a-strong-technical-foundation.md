@@ -4,13 +4,17 @@
 
 ###### *February 15, 2022*
 
-![The Child Care Concierge](./images/foundation-hero.png "The Child Care Concierge")
+<p align="center">
+  <img height="500" alt="The Child Care Concierge" src="./images/foundation-hero.png">
+</p>
 
 At [LegUp](https://www.legup.care), we recently launched The Child Care Concierge. It matches families to full-time and part-time child care by guiding them through the entire enrollment process. I helped co-found LegUp in 2019 with the vision to help families find and enroll in quality care for their children from pre-birth to pre-teen years. This release represents a significant milestone along that journey. But as with any startup, and especially those forming in the past few years, we pivoted a fair amount along the way. Our ability to shift our product through these pivots shows the importance of a well-architected design.
 
 **Iterate Quickly but have a solid foundation**
 
-![Moving fast](./images/foundation-fast.png "Moving fast")
+<p align="center">
+  <img height="300" alt="Moving Fast" src="./images/foundation-fast.png">
+</p>
 
 As a startup, you have to be able to react based on learnings and changing market conditions. The last two years have seen a lot of changing market conditions, not only in child care, but everywhere! “Build fast” is a common war cry in the early days, and LegUp was no exception. Our first product release came three months after coding started. Despite this, I spent several weeks upfront thinking about the back-end database design. With so much emphasis on building, iterating, and planning to throw everything away as you learn, why would I do this?
 
@@ -24,7 +28,9 @@ We help connect supply and demand. Over the past few years, that balance has shi
 
 **Start with a reasoned technical foundation**
 
-![A Strong Foundation](./images/foundation-foundation.png "A Strong Foundation")
+<p align="center">
+  <img height="300" alt="A Strong Foundation" src="./images/foundation-foundation.png">
+</p>
 
 I’ve advised several other startups, many of whom for lack of in-house expertise have outsourced their product development. That’s not a bad thing, provided the vendors know the right foundation. If you’re a non-technical founder, encourage them in the first few weeks to design and share that foundation with you. Walk through some business processes with them. Explain what you envision happening at each step. Do this before they write any code and make sure they understand your domain. It’s cheap at this point to make design modifications if necessary.
 

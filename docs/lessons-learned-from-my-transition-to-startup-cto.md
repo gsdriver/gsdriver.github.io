@@ -4,7 +4,9 @@
 
 ###### *January 23, 2020*
 
-![LegUp Cofounders](./images/startup-journey-hero.png "LegUp Cofounders")
+<p align="center">
+  <img height="400" alt="LegUp Cofounders" src="./images/startup-journey-hero.png">
+</p>
 
 I joined LegUp as a cofounder and CTO and recently left my role as a VP of Technology at Expedia to focus full-time on my startup. LegUp is using technology to help working parents and their families find trusted childcare. It’s early days and an exciting road ahead of us, but I wanted to take some time to reflect on my journey and hopefully give some insights to others considering similar moves.While we’ve only just started LegUp, I’ve been exploring joining an early stage startup for the past year and a half.
 
@@ -20,7 +22,9 @@ In parallel, I was getting more involved as an advisor for a local startup found
 
 I had the benefit of being close to this startup and being able to do some light work with them. This combined with much reflection led me to realize that these risks were the draws I was looking for … to let me *live more*. I felt I was playing it safe and wasn’t growing and challenging myself. I was ready to explore the excitement of uncertainty by trading off the status quo. I wanted the thrill of change and an environment where what I did mattered. I wanted to grow and guide a company beyond the technical vision. I also knew based on my own personality that I would thrive with a partner in place to work with and help with my transition.
 
-![Live More](./images/startup-journey-live-more.png "Live More")
+<p align="center">
+  <img height="300" alt="Live More" src="./images/startup-journey-live-more.png">
+</p>
 
 Yes, this thrill came with financial uncertainty. Anyone considering this move needs to look at their finances, understand their personal runway and comfort going months or years without pay, and review with their loved ones. I was fortunate that a long history in large software companies had given me a comfortable personal runway.
 
@@ -44,7 +48,9 @@ If you still think this move is for you, it’s important to take time for yours
 
 #### Establish a framework to evaluate opportunities
 
-![Photo by William Iven on Unsplash](./images/startup-journey-framework.png "Photo by William Iven on Unsplash")
+<p align="center">
+  <img height="300" alt="Photo by William Iven on Unsplash" src="./images/startup-journey-framework.png">
+</p>
 
 Once I focused my search on early stage startups, I tapped my network and got introductions to over a dozen founders and venture capitalists. There are no set processes to this type job search — some were further along the way and needed someone to take the product to the next level, others had little more than an idea and a need for a co-founder. As I prepared to start meeting with people, I decided to codify what was important to me into a framework.
 
@@ -66,7 +72,9 @@ The search itself provided me with some insight into this fast pace and roller c
 
 #### Take time with the team
 
-![Working with the team](./images/startup-journey-team-time.png "Working with the team")
+<p align="center">
+  <img height="300" alt="Working with the team" src="./images/startup-journey-team-time.png">
+</p>
 
 > I spent a few hours on some small projects with potential partners. This helped me understand our working styles, and where actions differed from words.
 
@@ -83,7 +91,9 @@ One of the opportunities I pursued was with someone I had enjoyed working with i
 
 #### Evaluate from the head
 
-![Photo by Lucrezia Carnelos on Unsplash](./images/startup-journey-head.png "Photo by Lucrezia Carnelos on Unsplash")
+<p align="center">
+  <img height="400" alt="Photo by Lucrezia Carnelos on Unsplash" src="./images/startup-journey-head.png">
+</p>
 
 Because I was looking at early companies, there were a lot of unknowns and a lot of risk. It was just as easy to fall in love with an opportunity as it was to find holes. Working with the team and monitoring my feelings helped, but it still left me with doubts about the move.
 
@@ -99,7 +109,9 @@ You may never be 100% sure that this is the right move for you. But if you find 
 
 My LegUp journey is still unfolding. I don’t know if we’ll make it or how things will work moving forward. But I am enjoying the ride with my co-founder and others involved. Onwards and upwards!‍
 
-![LegUp Logo](./images/startup-journey-logo.png "LegUp Logo")
+<p align="center">
+  <img height="150" alt="LegUp Logo" src="./images/startup-journey-logo.png">
+</p>
 
 ***
 

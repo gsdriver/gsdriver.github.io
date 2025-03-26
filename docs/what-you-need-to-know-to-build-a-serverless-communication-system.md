@@ -12,7 +12,9 @@ If you’ve tried using SQS or other event-bases systems, you’ve likely encoun
 
 ### Architecture
 
-![LegUp’s Serverless architecture for processing e-mails](./images/communication-architecture.png "LegUp’s Serverless architecture for processing e-mails")
+<p align="center">
+  <img height="300" alt="LegUp's Serverless architecture for processing e-mails" src="./images/communication-architecture.png">
+</p>
 
 Our architecture consists of several AWS components:
 
@@ -77,7 +79,9 @@ Once you’ve created the queue you’ll need to create a Lambda function to pro
 
 ### LegUp Communications System
 
-![LegUp Communications System](./images/communication-system.png "LegUp Communications System")
+<p align="center">
+  <img height="200" alt="LegUp Communications System" src="./images/communication-system.png">
+</p>
 
 As noted, we set up our Queue as a standard queue which provides at-least-once message delivery. It is possible that our Lambda function will receive the same SQS message more than once. We don’t want e-mail recipients to receive duplicate messages. We need some level of idempotency within our handling code. To achieve this, we use a table within a Postgres database which allows us to look up details of this message. This table of sent messages will also come in handy when we process the recipient’s delivery notification.
 

@@ -4,7 +4,7 @@
 
 ***
 
-[How Being a Startup Cofounder helpd my Big Tech Transition](./how-being-a-startup-cofounder-helped-my-big-tech-transition)
+[How Being a Startup Cofounder helped my Big Tech Transition](./how-being-a-startup-cofounder-helped-my-big-tech-transition)
 
 Leadership lessons learned on my journey from a startup to a large tech organization
 
