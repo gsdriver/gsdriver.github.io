@@ -32,10 +32,26 @@ Summary from an Ask Me Anything session from a section leader in Stanford’s Co
 
 ***
 
+[What you need to know to build a serverless communication system](./what-you-need-to-know-to-build-a-serverless-communication-system)
+
+How our startup designed an event-driven architecture to automate e-mails in a cost effective way
+
+**June 9, 2020**
+
+***
+
 [Lessons Learned from my Transition to Startup CTO](./lessons-learned-from-my-transition-to-startup-cto)
 
 My story of venturing out from a Corporate VP role
 
 **Jan 23, 2020**
+
+***
+
+[Teach What you Know to Learn it Better](./teach-what-you-know-to-learn-it-better)
+
+What I learned by leading an Alexa-development workshop
+
+**Dec 4, 2019**
 
 ***
