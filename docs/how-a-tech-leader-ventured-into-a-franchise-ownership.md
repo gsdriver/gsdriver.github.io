@@ -4,7 +4,9 @@
 
 ###### *March 26, 2025*
 
-![Heyday Kirkland](./images/franchise-hero.jpg "Heyday Kirkland")
+<p align="center">
+  <img height="400" alt="Heyday Kirkland" src="./images/franchise-hero.jpg">
+</p>
 
 I recently opened a skincare franchise in Kirkland, WA - [Heyday skincare](https://www.heydayskincare.com). As a technology professional, I knew nothing about skincare. As a tech entrepreneur, I had never run a physical storefront. Yet talking with others in my professional circle, this is not an uncommon dream. So why and how did I go about taking this step? Now that I’m nine months into operating my store, I thought I’d share the journey.
 
@@ -20,7 +22,9 @@ I enlisted the help of a franchise broker. This let me narrow my search on some 
 
 ## Applying technical leadership principles
 
-![Photo by Carlos Muza on Unsplash](./images/franchise-kpis.jpg "Photo by Carlos Muza on Unsplash")
+<p align="center">
+  <img height="300" alt="Photo by Carlos Muza on Unsplash" src="./images/franchise-kpis.jpg">
+</p>
 
 A skin care franchise is quite removed from a tech leadership role. But I found that several skills carried over, even if I wasn’t managing the day-to-day operations of the store.
 Problem solving skills are an important part of running this, or any, business. I faced lots of new challenges starting this business. Learning a new industry. The legal and HR aspects of setting up a location. Determining the right local marketing events. Finding and brainstorming partnership events, and so on. Coming from a product development background, these were new challenges. A natural problem solving approach helped. Heyday corporate provided help, but it was a “don’t get stuck - figure it out” attitude that carried me through. These challenges provided me with personal and professional growth.

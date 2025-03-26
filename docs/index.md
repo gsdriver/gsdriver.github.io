@@ -4,10 +4,6 @@
 
 ***
 
-I'm currently in the process of re-creating my blog site, and copying over some of my best content from the past few years.
-
-***
-
 [How a Tech Leader Ventured Into a Franchise Ownership](./how-a-tech-leader-ventured-into-a-franchise-ownership)
 
 Leadership lessons learned on my journey from a startup to a large tech organization
@@ -16,7 +12,7 @@ Leadership lessons learned on my journey from a startup to a large tech organiza
 
 ***
 
-[How Being a Startup Cofounder helpd my Big Tech Transition](./how-being-a-startup-cofounder-helped-my-big-tech-transition)
+[How Being a Startup Cofounder helped my Big Tech Transition](./how-being-a-startup-cofounder-helped-my-big-tech-transition)
 
 Leadership lessons learned on my journey from a startup to a large tech organization
 
