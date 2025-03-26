@@ -24,6 +24,14 @@ Make your pivots easier by taking some design time upfront
 
 ***
 
+[Advice from a Developer, Industry Executive, and Startup CTO](./advice-from-a-developer-industry-executive-and-startup-cto.md)
+
+Summary from an Ask Me Anything session from a section leader in Stanford’s Code In Place program
+
+**July 16, 2020**
+
+***
+
 [Lessons Learned from my Transition to Startup CTO](./lessons-learned-from-my-transition-to-startup-cto)
 
 My story of venturing out from a Corporate VP role
