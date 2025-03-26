@@ -5,7 +5,7 @@ description: Writing about the intersection of technology leadership and busines
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 
 # Google Analytics
-google_analytics: G-TF81W7GBW7
+google_tag_manager: G-TF81W7GBW7
