@@ -5,7 +5,7 @@
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-
+    gtag('event', 'page_view', { page_title: '{{ document.title }}' });
     gtag('config', '{{ site.google_tag_manager }}');
   </script>
 {% endif %}
