@@ -51,3 +51,11 @@ What I learned by leading an Alexa-development workshop
 **Dec 4, 2019**
 
 ***
+
+[Top 5 benefits of the Jargon SDK for Voice Content Management](./top-5-benefits-of-the-jargon-sdk-for-voice-content-management)
+
+Top reasons to adopt the Jargon SDK for your voice applications
+
+**Jan 28, 2019**
+
+***
