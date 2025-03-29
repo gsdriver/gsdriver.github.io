@@ -2,7 +2,7 @@
 
 ### Applying my technical skills to open and grow a skincare location
 
-###### *March 26, 2025*
+###### *April 1, 2025*
 
 <p align="center">
   <img height="400" alt="Heyday Kirkland" src="./images/franchise-hero.jpg">

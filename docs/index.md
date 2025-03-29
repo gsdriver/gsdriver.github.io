@@ -8,7 +8,7 @@
 
 Leadership lessons learned on my journey from a startup to a large tech organization
 
-**March 26, 2025**
+**April 1, 2025**
 
 ***
 
