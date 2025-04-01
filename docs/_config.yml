@@ -1,6 +1,6 @@
 # Site settings
 title: Garrett's Blog
-description: Writing about the intersection of technology leadership and business acumen
+description: Writing about the intersection of technology and business leadership
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
