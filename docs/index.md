@@ -42,8 +42,8 @@ Make your pivots easier by taking some design time upfront
 
 ***
 
-<p align="center">
-  <img height="200" alt="Advice from an industry veteran" src="./images/advice-hero.png">
+<p align="left">
+  <img height="150" alt="Advice from an industry veteran" src="./images/advice-hero.png">
 </p>
 
 [Advice from a Developer, Industry Executive, and Startup CTO](./advice-from-a-developer-industry-executive-and-startup-cto.md)
@@ -54,8 +54,8 @@ Summary from an Ask Me Anything session from a section leader in Stanford’s Co
 
 ***
 
-<p align="center">
-  <img height="200" alt="LegUp's Serverless architecture for processing e-mails" src="./images/communication-architecture.png">
+<p align="left">
+  <img height="150" alt="LegUp's Serverless architecture for processing e-mails" src="./images/communication-architecture.png">
 </p>
 
 [What you need to know to build a serverless communication system](./what-you-need-to-know-to-build-a-serverless-communication-system)
@@ -66,8 +66,8 @@ How our startup designed an event-driven architecture to automate e-mails in a c
 
 ***
 
-<p align="center">
-  <img height="200" alt="LegUp Cofounders" src="./images/startup-journey-hero.png">
+<p align="left">
+  <img height="150" alt="LegUp Cofounders" src="./images/startup-journey-hero.png">
 </p>
 
 [Lessons Learned from my Transition to Startup CTO](./lessons-learned-from-my-transition-to-startup-cto)
@@ -78,8 +78,8 @@ My story of venturing out from a Corporate VP role
 
 ***
 
-<p align="center">
-  <img height="200" alt="Alexa Development 101, photo courtesy of Mindspand" src="./images/teach-hero.png">
+<p align="left">
+  <img height="150" alt="Alexa Development 101, photo courtesy of Mindspand" src="./images/teach-hero.png">
 </p>
 
 [Teach What you Know to Learn it Better](./teach-what-you-know-to-learn-it-better)
@@ -90,8 +90,8 @@ What I learned by leading an Alexa-development workshop
 
 ***
 
-<p align="center">
-  <img height="200" alt="Photo by BENCE BOROS on Unsplash" src="./images/jargon-benefits-hero.png">
+<p align="left">
+  <img height="150" alt="Photo by BENCE BOROS on Unsplash" src="./images/jargon-benefits-hero.png">
 </p>
 
 [Top 5 benefits of the Jargon SDK for Voice Content Management](./top-5-benefits-of-the-jargon-sdk-for-voice-content-management)
