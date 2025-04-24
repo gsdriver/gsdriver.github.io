@@ -5,6 +5,19 @@
 ***
 
 <p align="left">
+  <img height="150" alt="Heyday Kirkland" src="./images/scraper-hero.jpg">
+</p>
+
+[How do GitHub Copilot and Cursor compare as web scrapers?](./how-do-github-copilot-and-cursor-compare-as-web-scrapers)
+
+Taking two popular code generation tools for a spin
+
+**April 24, 2025**
+
+
+***
+
+<p align="left">
   <img height="150" alt="Heyday Kirkland" src="./images/franchise-hero.jpg">
 </p>
 
