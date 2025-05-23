@@ -5,7 +5,19 @@
 ***
 
 <p align="left">
-  <img height="150" alt="Heyday Kirkland" src="./images/scraper-hero.jpg">
+  <img height="150" alt="Future of CS Education" src="./images/ai-cs-hero.jpg">
+</p>
+
+[Reflections on the future of introductory CS classes](./reflections-on-the-future-of-introductory-cs-classes)
+
+My thoughts after being a section leader for Stanford's introductory Code in Place program and investigating different AI coding tools
+
+**May 23, 2025**
+
+***
+
+<p align="left">
+  <img height="150" alt="AI Scrapers" src="./images/scraper-hero.jpg">
 </p>
 
 [How do GitHub Copilot and Cursor compare as web scrapers?](./how-do-github-copilot-and-cursor-compare-as-web-scrapers)
@@ -31,7 +43,7 @@ Leadership lessons learned on my journey from a startup to a large tech organiza
 ***
 
 <p align="left">
-  <img height="150" alt="Heyday Kirkland" src="./images/big-tech-hero.png">
+  <img height="150" alt="Big Tech Transition" src="./images/big-tech-hero.png">
 </p>
 
 [How Being a Startup Cofounder helped my Big Tech Transition](./how-being-a-startup-cofounder-helped-my-big-tech-transition)
