@@ -5,6 +5,18 @@
 ***
 
 <p align="left">
+  <img height="150" alt="Fractional CTO AI Superpower" src="./images/ai-superpower-hero.jpg">
+</p>
+
+[How AI Supercharges a Fractional CTO to Deliver like a Full Dev Team](./how-ai-supercharges-a-fractional-cto-to-deliver-like-a-full-dev-team)
+
+How I've been able to use different AI coding tools to supercharge my fractional CTO skills
+
+**May 29, 2025**
+
+***
+
+<p align="left">
   <img height="150" alt="Future of CS Education" src="./images/ai-cs-hero.jpg">
 </p>
 
