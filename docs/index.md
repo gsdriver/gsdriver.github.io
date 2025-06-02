@@ -41,6 +41,7 @@ Taking two popular code generation tools for a spin
 
 ***
 
+<!---
 <p align="left">
   <img height="150" alt="Heyday Kirkland" src="./images/franchise-hero.jpg">
 </p>
@@ -53,7 +54,7 @@ Leadership lessons learned on my journey from a startup to a large tech organiza
 
 
 ***
-
+--->
 <p align="left">
   <img height="150" alt="Big Tech Transition" src="./images/big-tech-hero.png">
 </p>
