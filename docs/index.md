@@ -41,20 +41,19 @@ Taking two popular code generation tools for a spin
 
 ***
 
-<!---
 <p align="left">
   <img height="150" alt="Heyday Kirkland" src="./images/franchise-hero.jpg">
 </p>
 
 [How a Tech Leader Ventured Into a Franchise Ownership](./how-a-tech-leader-ventured-into-a-franchise-ownership)
 
-Leadership lessons learned on my journey from a startup to a large tech organization
+How I went about opening a skincare franchsie as a tech leader
 
 **April 1, 2025**
 
 
 ***
---->
+
 <p align="left">
   <img height="150" alt="Big Tech Transition" src="./images/big-tech-hero.png">
 </p>
