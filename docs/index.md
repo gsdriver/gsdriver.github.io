@@ -5,6 +5,18 @@
 ***
 
 <p align="left">
+  <img height="150" alt="AI’s Flaws are a secret weapon for growth - here’s why" src="./images/ai-flaw-hero.jpg">
+</p>
+
+[AI’s Flaws are a Secret Weapon for Growth - Here’s Why](./ai-flaws-are-a-secret-weapon-for-growth)
+
+Don't run from AI Hallucinations - use them for growth!
+
+**June 16, 2025**
+
+***
+
+<p align="left">
   <img height="150" alt="Fractional CTO AI Superpower" src="./images/ai-superpower-hero.jpg">
 </p>
 
