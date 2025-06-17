@@ -10,7 +10,7 @@
 
 [AI’s Flaws are a Secret Weapon for Growth - Here’s Why](./ai-flaws-are-a-secret-weapon-for-growth)
 
-Don't run from AI Hallucinations - use them for growth!
+Elevated Coding - an AI approach to grow your skills
 
 **June 16, 2025**
 

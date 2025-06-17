@@ -1,6 +1,6 @@
 # AI’s Flaws are a Secret Weapon for Growth - Here’s Why
 
-### Don't run from AI Hallucinations - use them for growth!
+### Elevated Coding - an AI approach to grow your skills
 
 ###### *June 16, 2025*
 
@@ -10,7 +10,9 @@
 
 Like many, I’ve been using generative AI tools to accelerate my software development. It’s been especially helpful in areas where I have less expertise. Areas where I know enough to mentor for better performance and accuracy, but not enough to complete the task unaided. In the Dunning-Kruger effect, it's where you know enough to know you’re not an expert and are starting the climb towards mastery.
 
-## Hallucinations Are Powerful Accelerants
+As an experienced developer, I've been enjoying what I call **elevated coding**. Elevated coding allows you to learn by example, using generated AI code to improve your skills.
+
+## Elevated Coding Is a Powerful Accelerant
 
 AI is notorious for hallucinations with many comical examples of incorrect output. Consider this example to retrieve customer orders joining IDs from one table with names from another. Syntactically correct but logically flawed. It can be frustrating when an AI tool insists this is valid when asked to fix it:
 
@@ -20,9 +22,11 @@ FROM customers
 JOIN orders ON customers.id = orders.customer_name;
 ```
 
-It can be annoying to see hallucinations when you are a novice looking for a complex solution. But I’ve come to see these hallucinations as **powerful accelerants** in my own learning. I learn best by doing - picking up a problem and stepping through it. Having a real-word application helps me visualize concepts in a concrete manner. When I know what code should do and see incorrect results, stepping through it is a perfect learning opportunity. I couldn’t do this without experience. But my background lets me understand the logical process. Doing an in-depth code review lets me focus on each step to hone in on the incorrect logic. This gives me a better sense of the approach of the code. It lets me either provide a more detailed prompt to get a correct result, or to make direct changes to the code.
+It can be annoying to see hallucinations when you are a novice looking for a complex solution. But I’ve come to see these hallucinations as **powerful accelerants** in my own learning. I learn best by doing - picking up a problem and stepping through it. Having a real-word application helps me visualize concepts in a concrete manner. 
 
-> I've come to see AI hallucinations as *powerful accelerants* in my own learning
+Enter elevating coding. The idea is to use generated code, especially code that is meant to help solve specific real-world problems, as a way to grow your own skills. When I know what code should do and see incorrect results, stepping through it is a perfect learning opportunity. I couldn’t do this without experience. But my background lets me understand the logical process. Doing an in-depth code review lets me focus on each step to hone in on the incorrect logic. This gives me a better sense of the approach of the code. It lets me either provide a more detailed prompt to get a correct result, or to make direct changes to the code.
+
+> **Elevated Coding** is the practice of using AI hallucinations as *powerful accelerants* in expanding your own learning
 
 ## Building SQL Expertise
 
@@ -41,6 +45,8 @@ As I worked through the AI-generated SQL, I realized the mistakes weren’t obst
 > The best leaders will use AI's imperfections to grow
 
 John F Kennedy said, “Those who dare to fail miserably can achieve greatly.” The strongest developers, and the best leaders, will be those who use AI’s imperfections to refine their thinking, adapt quickly, and push technical boundaries.
+
+Have you been using elevated coding in your learning? Let me know in the comments!
 
 ***
 
